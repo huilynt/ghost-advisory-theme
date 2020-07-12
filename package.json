@@ -42,7 +42,7 @@
     "contributors": "https://github.com/AdvisorySG/ghost-advisory-theme/graphs/contributors",
     "dependencies": {
         "@tryghost/admin-api": "^1.2.0",
-        "autoprefixer": "9.7.6",
+        "autoprefixer": "9.8.4",
         "beeper": "2.0.0",
         "cssnano": "4.1.10",
         "gscan": "3.5.4",
@@ -50,7 +50,7 @@
         "gulp-livereload": "4.0.2",
         "gulp-postcss": "8.0.0",
         "gulp-uglify": "3.0.2",
-        "gulp-zip": "5.0.1",
+        "gulp-zip": "5.0.2",
         "postcss-color-mod-function": "3.0.3",
         "postcss-custom-properties": "9.1.1",
         "postcss-easy-import": "3.0.0",
@@ -83,7 +83,7 @@
         }
     },
     "devDependencies": {
-        "danger": "^10.2.0",
+        "danger": "^10.2.1",
         "husky": "^4.2.5",
         "prettier": "^2.0.5",
         "pretty-quick": "^2.0.1"
